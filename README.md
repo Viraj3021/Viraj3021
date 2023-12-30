@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viraj3021" alt="viraj3021" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
- ( https://docs.google.com/document/d/1xojGpf3RhXXmURHF3DByNMfXYeotV8hy/edit?usp=sharing&ouid=104722623887426251642&rtpof=true&sd=true).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
